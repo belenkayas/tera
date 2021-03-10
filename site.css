@@ -1,0 +1,24 @@
+body {
+font-size: 23px;
+line-height: 1.42857143;
+color: #4b0082;
+};
+button{
+width: 100px;
+height:30px;
+border-radius: 4px;
+margin:50px;
+}
+.on{
+color:#666;
+background-color: #ee82ee;
+}
+.off{
+color:white;
+background-color: #ee82ee;
+};
+
+.navbar {
+    overflow: hidden; /* Hide overflow */
+    background-color: #d8bfd8; /* Dark background color */
+}
